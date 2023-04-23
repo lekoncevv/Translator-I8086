@@ -1,0 +1,14 @@
+mov cx,bx
+mov dx,[bx]
+mov bx,[si]
+mov dx,[bx+di]
+mov ax,[bx+si]
+mov cx,[di]
+add cx,bx
+add dx,[bx]
+add bx,[si]
+add dx,[bx+di]
+add ax,[bx+si]
+add cx,[di]
+add ax,276
+add al,235

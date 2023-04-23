@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\he_4e\OneDrive\Рабочий стол\Документы\Лабы\4 семестр\МЗЯП\2 лр\Translator16bit\Translator16bit\main.cpp(30,50): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\he_4e\OneDrive\Рабочий стол\Документы\Лабы\4 семестр\МЗЯП\2 лр\Translator16bit\Translator16bit\main.cpp(93): warning C4715: calc_praddr: значение возвращается не при всех путях выполнения
+  Translator16bit.vcxproj -> C:\Users\he_4e\OneDrive\Рабочий стол\Документы\Лабы\4 семестр\МЗЯП\2 лр\Translator16bit\x64\Debug\Translator16bit.exe
